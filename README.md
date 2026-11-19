@@ -14,6 +14,20 @@ A Flutter-based educational application designed to make learning and memorizati
 - **Navigation Controls:** Move between flashcards using Previous and Next buttons.
 - **Local Data Storage:** Save flashcard data locally for continued learning.
 
+## 📸 Screenshots
+
+### Home Screen
+![Flashcard Quiz App home screen](screenshots/home.jpeg)
+
+### Interactive Flashcards
+![Interactive flashcard screen](screenshots/flashcard.jpeg)
+
+### Audio Pronunciation
+![Word pronunciation screen](screenshots/pronunciation.jpeg)
+
+### Quiz
+![Flashcard quiz screen](screenshots/quiz.jpeg)
+
 ## 🛠️ Technologies Used
 
 - Flutter
